@@ -1,0 +1,32 @@
+{
+  "eda": {
+    "transactions": 50000,
+    "unique_customers": 6250,
+    "fraud_rate_pct": 3.07,
+    "payment_success_rate_pct": 96.28,
+    "total_transaction_value": 2470645.43,
+    "average_transaction_value": 49.41,
+    "missing_cells": 0
+  },
+  "fraud_model": {
+    "test_rows": 10000,
+    "fraud_prevalence_pct": 3.07,
+    "threshold_selected_on_validation": 0.21494,
+    "precision_fraud": 0.1257,
+    "recall_fraud": 0.1531,
+    "f1_fraud": 0.138,
+    "pr_auc": 0.0737,
+    "roc_auc": 0.672,
+    "accuracy": 0.9413
+  },
+  "anomaly_detection": {
+    "flagged_transactions": 1000,
+    "flagged_rate_pct": 2.0,
+    "fraud_rate_among_flagged_pct": 4.4
+  },
+  "customer_segmentation": {
+    "customers_segmented": 6250,
+    "clusters": 4,
+    "silhouette_score": 0.3053
+  }
+}

@@ -1,0 +1,5 @@
+segment,customers,avg_transactions,avg_total_spend,avg_transaction_value,avg_fraud_rate,avg_payment_success
+0,834,7.217,313.199,44.316,0.17,0.965
+1,1734,5.387,213.11,41.477,0.0,1.0
+2,725,7.048,300.667,43.761,0.005,0.817
+3,2957,9.986,548.502,57.121,0.016,0.977

@@ -1,0 +1,2 @@
+transactions,unique_customers,fraud_rate_pct,payment_success_rate_pct,total_transaction_value,average_transaction_value,missing_cells
+50000,6250,3.07,96.28,2470645.43,49.41,0

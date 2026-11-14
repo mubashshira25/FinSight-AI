@@ -1,0 +1,5 @@
+{
+  "flagged_transactions": 1000,
+  "flagged_rate_pct": 2.0,
+  "fraud_rate_among_flagged_pct": 4.4
+}

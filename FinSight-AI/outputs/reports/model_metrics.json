@@ -1,0 +1,11 @@
+{
+  "test_rows": 10000,
+  "fraud_prevalence_pct": 3.07,
+  "threshold_selected_on_validation": 0.21494,
+  "precision_fraud": 0.1257,
+  "recall_fraud": 0.1531,
+  "f1_fraud": 0.138,
+  "pr_auc": 0.0737,
+  "roc_auc": 0.672,
+  "accuracy": 0.9413
+}

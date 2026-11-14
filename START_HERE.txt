@@ -1,0 +1,14 @@
+FINSIGHT AI — QUICK START
+
+1. Install Python 3.10+.
+2. Open this folder in VS Code.
+3. Open Terminal > New Terminal.
+4. Run:
+   python -m venv .venv
+   .venv\Scripts\Activate.ps1
+   pip install -r requirements.txt
+   python src/run_project.py
+5. Review outputs/figures and outputs/reports.
+
+Full instructions and explanations are in README.md.
+This project uses synthetic educational data, not PayPal data.
